@@ -1,7 +1,7 @@
-## FD-SCU
+# FD-SCU
 
-This is the official implementation of **FD-SCU: Frequency Decomposition-based
-Spectrum Collaborative Upsampling for Point Cloud Color Attribute**.
+This is the official implementation of **[FD-SCU: Frequency Decomposition-based
+Spectrum Collaborative Upsampling for Point Cloud Color Attribute](https://ieeexplore.ieee.org/document/11466445/)**.
 
 ## Prerequisite
 
