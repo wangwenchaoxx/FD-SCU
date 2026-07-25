@@ -24,7 +24,7 @@ https://github.com/qdushl/Waterloo-Point-Cloud-Database
 ### FaceScape
 
 Apply for and download the FaceScape dataset from:
-[https://facescape.nju.edu.cn/](https://nju-3dv.github.io/projects/FaceScape/)
+https://nju-3dv.github.io/projects/FaceScape/
 
 Organize the dataset as follows. Data splitting files (train.txt, valid.txt, test.txt) can be found in data/FaceScape/.
 
